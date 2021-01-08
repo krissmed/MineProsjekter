@@ -4,7 +4,7 @@
 - <a href="">Oblig 1</a>
 - <a href="">Oblig 2</a>
 
-## Webutvikling og inklkuderende design
+## Webutvikling og inkluderende design
 - <a href="https://github.com/krissmed/See-it-Correct-it-Now-Make-it">Oblig 1</a><br>
 - <a href="https://github.com/krissmed/Make-It-Responsive">Oblig 2</a><br>
 - <a href="https://github.com/krissmed/Innovation-camp-website">Oblig 3</a><br>
