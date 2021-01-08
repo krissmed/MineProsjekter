@@ -11,7 +11,4 @@
 - <a href="https://github.com/krissmed/Freaky-Friday">Oblig 4</a><br>
 - <a href="https://github.com/krissmed/DAFE1200-Eksamen">Eksamen</a><br>
 
-## Databaser
 ## Webprogrammering
-## Internet of things
-## Visualisering
